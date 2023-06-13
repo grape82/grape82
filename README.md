@@ -8,3 +8,5 @@ grape82
 주로 스크립트나, 명령어를 자주 사용합니다!
 그래서 깃허브에 마인크래프트 관련된 파일을 올릴껍니다!
 ```
+
+[MBTI](https://namu.wiki/w/16%20Personalities) - [ISFP](https://namu.wiki/w/ISFP)
