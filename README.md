@@ -3,6 +3,7 @@
 ### 기타 링크
 * [리틀리 프로필링크](https://litt.ly/grape)
 * [블로그](https://blog.naver.com/yongyong130)
+* [*유튜브*](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 ### 자기소개
 ```
 마인크래프트를 즐겨합니다!
