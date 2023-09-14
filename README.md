@@ -1,5 +1,5 @@
 # grape82
-
+[![Grape82's GitHub stats](https://github-readme-stats.vercel.app/api?username=grape82)](https://github.com/anuraghazra/github-readme-stats)
 ### 기타 링크
 * [**유튜브**](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 * [리틀리 프로필링크](https://litt.ly/grape)
