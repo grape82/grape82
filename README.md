@@ -1,9 +1,11 @@
 # grape82
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grape82)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 기타 링크
 * [**유튜브**](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 * [리틀리 프로필링크](https://litt.ly/grape)
 * [블로그](https://blog.naver.com/yongyong130)
+* 
 ### 자기소개
 ```
 마인크래프트를 즐겨합니다!
