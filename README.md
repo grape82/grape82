@@ -20,3 +20,6 @@
 [블로그](https://blog.naver.com/yongyong130)
 
 [리틀리 프로필링크](https://litt.ly/grape)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,kotlin,idea)](https://skillicons.dev)
