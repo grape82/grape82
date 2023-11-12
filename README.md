@@ -1,17 +1,20 @@
 <div align="center">
 
 # 포도!🍇
-게임을 좋아하는 한 사람!
+게임과 개발하는걸 좋아하는 잼민이(?) 포도입니다!
 
-# 소개! 👋
-유튜브와 트위치 활동을 하는 한 사람입니다!
+### 기타
 
-마인크래프트 커맨더에요!
 
+<details><summary>⭐ 깃허브 스탯</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grape82)](https://github.com/anuraghazra/github-readme-stats)
 
-## 사이트! 🌐
-(사이트 가끔 운영해요!)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grape82&show_icons=true&theme=default)
+
+</details>
+
+<details><summary>🌐 사이트 모음집</summary>
 
 [**유튜브**](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 
@@ -21,5 +24,6 @@
 
 [리틀리 프로필링크](https://litt.ly/grape)
 
+[디스코드](https://discord.gg/PxshqMqj5A)
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,kotlin,idea,discord)](https://skillicons.dev)
+</details>
